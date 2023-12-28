@@ -1,0 +1,62 @@
+/* ------ Listview.css start ------ */
+
+body {
+  background-color: rgb(126, 233, 97);
+  /* color: yellowgreen; */
+}
+
+h1,
+div {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+.list-view {
+  position: relative;
+  top: 100px;
+}
+
+.custom-checkbox-label {
+  display: flex;
+  align-items: center;
+}
+
+.custom-checkbox-input {
+  position: relative;
+  left: 30%;
+  margin: 5px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  vertical-align: middle;
+  background: gainsboro;
+  border: 1px solid gainsboro;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.custom-checkbox-input:checked {
+  appearance: auto;
+  clip-path: circle(50% at 50% 50%);
+  background-color: blue;
+}
+
+.custom-checkbox-text {
+  position: relative;
+  left: 30%;
+  height: 30px;
+  width: 400px;
+  text-align: left;
+  font-size: 18px;
+  border: 1px solid #fff;
+  padding: 2px 5px;
+  margin: 5px;
+  background: #fff;
+}
+
+/* ------ Listview.css end ------ */
