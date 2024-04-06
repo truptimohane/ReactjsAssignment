@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "1712050708261",
+      "name": "Mandarin Collar Shirt",
+      "price": "333",
+      "category": "Fashion"
+    },
+    {
+      "id": "1712050767765",
+      "name": "Henley Shirt",
+      "price": "70",
+      "category": "Fashion"
+    },
+    {
+      "id": "1712050800325",
+      "name": "Denim Shirt",
+      "price": "60",
+      "category": "Fashion"
+    },
+    {
+      "id": "1712050888351",
+      "name": "Cuban Collar Shirt",
+      "price": "29",
+      "category": "Fashion"
+    }
+  ]
+}

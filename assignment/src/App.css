@@ -60,3 +60,40 @@ li {
 }
 
 /* ------ Listview.css end ------ */
+
+body {
+  /* background-color: royalblue; */
+  /* color: yellowgreen; */
+}
+
+/* ------ counting (Increment-Decrement)  start ----- */
+
+.counter {
+  position: relative;
+  top: 150px;
+}
+
+h1,
+div {
+  text-align: center;
+}
+
+.count {
+  color: rgb(35, 34, 34);
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+button {
+  background: rgb(35, 34, 34);
+  color: #fff;
+  margin: 10px 20px;
+  padding: 5px;
+  letter-spacing: 2px;
+}
+
+li {
+  list-style: none;
+}
+
+/* ------ counting (Increment-Decrement)  end ----- */
