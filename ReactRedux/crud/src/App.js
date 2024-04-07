@@ -1,7 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Login from "./features/pages/Login";
-import Register from "./features/pages/Register";
-import Dashboard from "./features/pages/Dashboard";
+import Login from "./features/Pages/Login";
 
 function App() {
   return (
@@ -16,7 +14,7 @@ function App() {
               </>
             }
           ></Route>
-          <Route
+          {/* <Route
             path="/register"
             element={
               <>
@@ -31,7 +29,7 @@ function App() {
                 <Dashboard />
               </>
             }
-          ></Route>
+          ></Route> */}
         </Routes>
       </BrowserRouter>
     </div>
