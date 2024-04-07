@@ -8,10 +8,10 @@ import New from "./Components/New";
 function App() {
   return (
     <>
-      {/* <Listview></Listview>
-      <IncrementDecrement></IncrementDecrement> */}
+      {/* <Listview></Listview> */}
+      {/* <IncrementDecrement></IncrementDecrement> */}
       {/* <Lifecycle></Lifecycle> */}
-      <New></New>
+      {/* <New></New> */}
     </>
   );
 }
